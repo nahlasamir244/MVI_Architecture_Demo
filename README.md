@@ -1,2 +1,2 @@
-# MVI_Architecture_Demo
+Model View Intent Demo
  
